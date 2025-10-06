@@ -5,8 +5,8 @@
 ## Author: Renee Bichler, 2025
 ## Find me on GitHub: reneebichler
 
-## Within this code we are going to download NASA Digital Elevation Model data using Google Earth Engine,
-## clipped to a shapefile and exported as GeoTIFF.
+## Within this code we are going to download NO2 and CH4 Sentinel-5P/TROPOMI data
+## using Google Earth Engine.
 
 ## Date format: YYYY-MM-DD
 
