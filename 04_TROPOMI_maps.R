@@ -2,7 +2,7 @@
 ## Description
 ## ------------------------------------------------------------------------------------
 
-## Author: Renee Bichler, rbichler@unc.edu, 2025
+## Author: Renee Bichler, 2025
 ## Find me on GitHub: reneebichler
 
 ## Within this code, we will create maps and time series plots for the TROPOMI data.
